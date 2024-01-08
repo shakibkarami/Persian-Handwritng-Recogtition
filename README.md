@@ -39,7 +39,7 @@ For running the preprocessing follow these steps:
 3. If the config file is different than `config/config.py` pass its path in the `src/data_preprocessimg.py` script.
 4. Execute the script in the project directory:
 ```bash
-cd Persian_handwriting_recognition/
+cd Persian-Handwriting-Recognition/
 python3 src/data_preprocessing.py
 ```
 
