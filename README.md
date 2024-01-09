@@ -1,5 +1,5 @@
 # Persian handwriting recognition using CNN
-This project was part of final projcet of the course <a href="https://wp.kntu.ac.ir/nasihatkon/teaching/cvug/s2020/">Foundations of Computer Vision Course</a> instructed by Dr. Behrooz Nasihatkon.
+This project was part of final project of the course <a href="https://wp.kntu.ac.ir/nasihatkon/teaching/cvug/s2020/">Foundations of Computer Vision Course</a> instructed by Dr. Behrooz Nasihatkon.
 It contains scripts for data pre-processing and exctraction, annotation, training, and prediction and uses computer vision and machine learning techniques. 
 
 # Data collection
